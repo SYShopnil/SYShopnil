@@ -41,7 +41,7 @@
 - **[Ghapfy App](https://play.google.com/store/apps/details?id=com.ghapfyltd.ghapfy)** – Social platform for creative talents with live streaming, built using **NestJS + PostgreSQL + Redis + AWS**
 - **[ESPD](https://espd.school/)** – Online tutor-finding platform with **Next.js (frontend)** and **NestJS (backend)**
 - **[BrightonSEO](https://brightonseo.com/)** – Collaborated on a high-traffic marketing platform using **Next.js & TailwindCSS**
-- **[AB3 Medical](https://ab3medical.com/)** – Developed backend systems for an innovative athlete-centric EMR platform that ensures players own and control access to their medical history via a secure mobile app and clinician dashboard. Features include categorized health records, streamlined clinician updates, and robust document export capabilities.
+- **[AB3 Medical](https://ab3medical.com/)** – Developed backend systems for an innovative athlete-centric **Electronic Medical Record (EMR)** platform that ensures players own and control access to their medical history via a secure mobile app and clinician dashboard. Built using **NestJS, PostgreSQL, GraphQL, Redis, and AWS**, the platform features categorized health records, streamlined clinician updates (voice or form-based), and PDF export capabilities, enabling secure, efficient, and athlete-owned medical data management.
 
 
 ---
